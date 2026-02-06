@@ -9,12 +9,12 @@ button{
     background-color:rgb(105, 22, 22);
     margin-left:450px;
     height:400px;
-    width:300px;
+    width:350px;
     padding:10px;
      border-radius:10px;
 }
 
-.container .display{
+.container .dispCont{
     background-color:rgb(105, 159, 159);
     width:280px;
     height:40px;
@@ -22,6 +22,9 @@ button{
     vertical-align:center;
     margin:10px;
     border-radius:10px;
+    display:flex;
+    padding:10px;
+    justify-content: space-between;
 
 }
 
